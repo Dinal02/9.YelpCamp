@@ -17,5 +17,5 @@ This project is built using Node.js, Express, MongoDB, HTML, CSS, and Bootstrap.
 - **HTML, CSS, Bootstrap**
 - **Mongoose**
 
-- ## Take a look at this web-app using below URL:
+- ## Take a look at this web-app using the given Link below:
 - https://yelpcamp-9lcq.onrender.com/
